@@ -1,0 +1,15 @@
+.sectionProduct .device-image {
+  position: relative;
+  width: 156%;
+  right: -12%;
+}
+.sectionProduct .image-ornament {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  opacity: 0.4;
+}
+.sectionProduct .sectionHead {
+  position: relative;
+  z-index: 1;
+}/*# sourceMappingURL=section.css.map */
